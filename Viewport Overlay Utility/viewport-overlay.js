@@ -1,10 +1,12 @@
-// File: viewprot-overlay_readme.md
+// File: viewport-overlay.js
+// File --help: viewprot-overlay_readme.md
 // Title: Viewport Overlay Utility Documentation
-// Version: 1.0
-// Author: Днева (СЭЭ)
+// Version: rev.1.0
+// Author: ElvenRivendil + Днева (ИИ-ассистент)
 // Date: 2025-08-26
-// Description: Подробная документация для утилиты viewport-overlay.js, включая установку, использование и особенности работы в Chrome.
-// viewport-overlay.js
+// Description: Подробная документация для утилиты viewport-overlay.js, 
+// включая установку, использование и особенности работы в Chrome.
+
 (function(){
     var overlayOpacity = 0.5; // прозрачность overlay, 50%
   
